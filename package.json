@@ -28,6 +28,7 @@
   "homepage": "https://github.com/zjael/proxy-balancer#readme",
   "dependencies": {
     "bottleneck": "^2.19.5",
+    "bunyan": "^1.8.14",
     "node-fetch": "^2.6.0",
     "simple-proxy-agent": "^1.0.6"
   },
