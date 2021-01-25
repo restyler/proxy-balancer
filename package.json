@@ -30,7 +30,8 @@
     "bottleneck": "^2.19.5",
     "bunyan": "^1.8.14",
     "node-fetch": "^2.6.0",
-    "simple-proxy-agent": "^1.0.6"
+    "simple-proxy-agent": "^1.0.6",
+    "proxy-agent": "^4.0.1"
   },
   "devDependencies": {
     "chai": "^4.2.0",
